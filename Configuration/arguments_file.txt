@@ -1,0 +1,35 @@
+# ----------------------------------------------------------------------------------------------------------------------
+# CONFIGURATION
+# ----------------------------------------------------------------------------------------------------------------------
+# DEBUG_LEVEL: TRACE, DEBUG, INFO (default), WARN, ERROR and NONE (no logging).
+-v DEBUG_LEVEL:DEBUG
+
+#-v CLIENT:default
+#-v ENVIRONMENT:default
+
+
+# ----------------------------------------------------------------------------------------------------------------------
+# TAGS
+# ----------------------------------------------------------------------------------------------------------------------
+# -e: Exclude tests by tags
+#-e Disable
+# -i: Include tests by tags
+# -n: Tests that have the given tag are not critical
+#-n NonCritical
+
+
+# ----------------------------------------------------------------------------------------------------------------------
+# OPTIONS
+# ----------------------------------------------------------------------------------------------------------------------
+# -W: Console width
+#-W 120
+# -x: Generate XUnit compatible result file
+# --xunitskipnoncritical option can be used to mark non-critical tests as skipped
+#-xunit
+# -b: Defines where to create debug files
+#-b /opt/robotframework/reports/output.txt
+# -d: Defines where to create output files
+#-d /opt/robotframework/reports
+-d results
+
+#-v VIRTUAL_BROWSER:NO
