@@ -3,7 +3,7 @@
 
 This repository is meant for Realyr QA Automation Test.
 
-Project has some additional used dictinories and script files. These are added to give the view of an actual full fledged automation framework which has the capability and felxibility to extend for automation on muliple applications.
+Project has some additional unused dictinories and script files. These are added to give the view of an actual full fledged automation framework which has the capability and felxibility to extend for automation on muliple applications.
 
 
 ## Project layout
