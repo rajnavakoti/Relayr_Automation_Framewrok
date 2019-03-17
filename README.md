@@ -213,11 +213,12 @@ Structure for this section:
                 - Test...
         - (Client)\...
 
-###### Robot scripting best practices:
+###### Robot scripting best practices implemented in the framework:
     - User keywords must be unique, space separated words, should follow 'Pascal Casing Style'
 	- Documentation mandatory for each keywords
 	- Folders name must follow 'Pascal Casing Style' and Under_Score seprated
 	- robot/python files names must be lower case, under_score separated
+	- 4 spaces between columns
 	- 2 spaces betwen sections in resource and test files
 	- Suite setup and teardown mandatory for every test file
 	- varible, list, disctionary variable names must be small letters and under_score seperated
