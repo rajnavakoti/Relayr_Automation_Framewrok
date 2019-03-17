@@ -7,7 +7,7 @@ This repository is meant for Realyr QA Automation Test.
 ## Project layout
 Project structure is divided into five eight main layers which will be explained further in the following lines:
 
-- Configurations
+- Configuration
 - Data
 - Docker
 - Documentation
