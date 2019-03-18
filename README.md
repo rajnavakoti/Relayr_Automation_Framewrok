@@ -7,7 +7,7 @@ Project has some additional unused dictinories and script files. These are added
 
 
 ## Project layout
-Project structure is divided into five eight main layers which will be explained further in the following lines:
+Project structure is divided into eight main layers which will be explained further in the following lines:
 
 - Configuration
 - Data
