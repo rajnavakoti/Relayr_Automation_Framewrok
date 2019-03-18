@@ -216,7 +216,7 @@ Structure for this section:
         - (Client)\...
 
 ###### Robot scripting best practices implemented in the framework:
-        - User keywords are unique, space separated words, follows 'Pascal Casing Style'
+    - User keywords are unique, space separated words, follows 'Pascal Casing Style'
 	- Documentation mandatory for each keywords
 	- Folders name follows 'Pascal Casing Style' and Under_Score seprated
 	- robot/python files names are lower case, under_score separated
