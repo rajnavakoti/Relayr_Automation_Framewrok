@@ -216,17 +216,17 @@ Structure for this section:
         - (Client)\...
 
 ###### Robot scripting best practices implemented in the framework:
-    - User keywords must be unique, space separated words, should follow 'Pascal Casing Style'
+        - User keywords are unique, space separated words, follows 'Pascal Casing Style'
 	- Documentation mandatory for each keywords
-	- Folders name must follow 'Pascal Casing Style' and Under_Score seprated
-	- robot/python files names must be lower case, under_score separated
+	- Folders name follows 'Pascal Casing Style' and Under_Score seprated
+	- robot/python files names are lower case, under_score separated
 	- 4 spaces between columns
 	- 2 spaces betwen sections in resource and test files
 	- Suite setup and teardown mandatory for every test file
-	- varible, list, disctionary variable names must be small letters and under_score seperated
-	- Resulable keywords need to be created in 'Common' folder
-	- Docmentation for test cases in no recomded, as they are alredy in gherkin style
-	- .Py files need to created in python_src directory
-	- Global variables need to be Configurations/config.ini file
-	- Global vaiables need to lower case, starting with _under_score
+	- varible, list, disctionary variable names are small letters and under_score seperated
+	- Resulable keywords are created in 'Common' folder
+	- Docmentation for test cases in not recomded, as they are alredy in gherkin style
+	- .Py files are created in python_src directory
+	- Global variables are listed in Configurations/config.ini file
+	- Global vaiables are lower case, starting with _under_score
 	
