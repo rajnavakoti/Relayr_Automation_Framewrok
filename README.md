@@ -66,7 +66,7 @@ To run test execute the following commands:
   - Step 2 : go to project folder - cd ${path of Realyr_Automation_framework}$
   - Step 3 : go to Dockerfile location - cd Docker
   - Step 3 : Build docker - Docker build -t robotdocker:your_tag
-  - Step 4 : Run docker - docker run -v /absolute_path_to_your_reports_folder/:/opt/robotframework/reports -v $PWD/:/opt/robotframework/project/ robotdocker:your_tag
+  - Step 4 : Run docker container - docker run -v /absolute_path_to_your_reports_folder/:/opt/robotframework/reports -v $PWD/:/opt/robotframework/project/ robotdocker:your_tag
 
 ### Project Structure:
 
